@@ -1,15 +1,8 @@
 cat > poolMetaData.json << EOF
-
 {
-
-"name": "Soju",
-
+"name": "FREE",
 "description": "Rpi 4, 8GB, Ubuntu",
-
-"ticker": "Soju",
-
+"ticker": "FREE",
 "homepage": "https://cafe.naver.com/pms8351"
-
 }
-
 EOF
