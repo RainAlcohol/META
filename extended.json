@@ -1,0 +1,22 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon",
+        "url_png_logo": "http(s) url to pool logo",
+        "location": "SunCheon, KOREA",
+        "social": {
+            "twitter_handle": "BakGurum",
+            "telegram_handle": "MnsBak",            
+            "discord_handle": ""
+        },        
+        "about": {
+            "me": "ALIVE HUMAN, from 2077..",
+            "server": "RaspberryPi & 100MB up/down.",          
+        }        
+    },
+    "my-pool-ids": {
+        "0": "1e00764c7fa28e57cd8b7c5ef7786805b96af4453d9a51619cac7a8b",        
+    },    
+    "telegram-admin-handle": {
+        "0": "MnsBak"
+    }   
+}
